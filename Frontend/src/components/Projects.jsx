@@ -18,7 +18,7 @@ const projects = [
     images: ["Login.png", "SignUp.png", "Edit_Delete.png","User_Notes.png","MongoDB.png"],
     technologies: ["React", "Node.js", "MongoDB", "Express", "Bootstrap", "AWS", "Docker"],
     githubLink: "https://github.com/vivekkumarsoni123/inotebook/tree/main",
-    liveLink: "https://github.com/vivekkumarsoni123/inotebook/tree/main",
+    liveLink: "https://usernotebook.vercel.app/",
     autoplayDelay: 2500, 
   },
   
@@ -42,7 +42,7 @@ const projects = [
     images: ["Nflix_Home.png","Nflix_cards (1).png","Nflix_cards (2).png"],
     technologies: ["React","Online API","HTML","CSS"],
     githubLink: "https://github.com/vivekkumarsoni123/NetFlix-Clone",
-    liveLink: "https://github.com/vivekkumarsoni123/NetFlix-Clone",
+    liveLink: "https://net-flix-clone-rho.vercel.app/",
     autoplayDelay: 1000, 
   },
   {
@@ -69,6 +69,32 @@ const projects = [
     ],
     githubLink: "https://github.com/vivekkumarsoni123/NetFlix-Recommendation-System",
     liveLink: "https://github.com/vivekkumarsoni123/Infosys_Springboard_Project",
+    autoplayDelay: 1500, 
+  },
+  {
+    title: "Slither Game",
+    description:
+      "Developed the popular childhood game 'Snake Game' using HTML, CSS, and JavaScript. The game is played using the arrow keys to control the snake's movement. Implemented a scoring system that increases as the snake eats food, and the game ends when the snake collides with itself or the walls. Also added sound effects to get realistic feel.",
+    images: ["Snake1.png","Snake2.png"],
+    technologies: [
+      "HTML","CSS","JavaScript","Browser Local Storage","mp3 Sound"
+
+    ],
+    githubLink: "https://github.com/vivekkumarsoni123/Slither_Game",
+    liveLink: "https://slither-game-mu.vercel.app/",
+    autoplayDelay: 1500, 
+  },
+  {
+    title: "Chrome Extension",
+    description:
+      "Developed a chrome Extension which allows you to experience the dark mode and light mode for any website in your browser.",
+    images: ["ce1.png","ce2.png"],
+    technologies: [
+      "HTML","CSS","JavaScript","Chrome Extension"
+
+    ],
+    githubLink: "https://github.com/vivekkumarsoni123/Chrome-Extension",
+    liveLink: "https://chrome-extension-chi-lac.vercel.app/",
     autoplayDelay: 1500, 
   },
 ];

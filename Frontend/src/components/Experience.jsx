@@ -6,6 +6,15 @@ gsap.registerPlugin(ScrollTrigger);
 
 const experiences = [
   {
+    title: "Java Full Stack Intern",
+    company: "Miracle Software System",
+    period: "May2025-July2025",
+    description: [
+       "Engineered RESTful endpoints with Spring Boot (Eclipse) and integrated with React frontend via JSON to deliver end-toend features.",
+       "Implemented core Java features like file management, exception handling, and data structures to support backend logic"
+    ]
+  },
+  {
     title: "AIML Summer Intern",
     company: "Infosys Springboard ",
     period: "May2024-July2024",

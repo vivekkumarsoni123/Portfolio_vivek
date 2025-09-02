@@ -6,7 +6,14 @@ import { FaExternalLinkAlt, FaCalendarAlt, FaAward } from 'react-icons/fa';
 gsap.registerPlugin(ScrollTrigger);
 
 const certifications = [
-  
+  {
+    title: "AWS Certified Cloud Practitioner",
+    issuer: "AWS Training and Certification",
+    date: "June 21, 2025",
+    credentialLink: "https://www.credly.com/badges/0bbcfb0e-b487-4fef-a92a-21f8d607964d/public_url",
+    skills: ["AWS Cloud, Cloud Concepts, Security, Technology, Billing and Pricing, Networking, Compute, Database, Storage"],
+    badgeUrl: "https://www.credly.com/badges/0bbcfb0e-b487-4fef-a92a-21f8d607964d/public_url"
+  },
   {
     title: "Red Hat Certified System Administrator",
     issuer: "Red Hat Academy",
